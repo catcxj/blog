@@ -2,4 +2,4 @@
 
 ## 2020
 
-### [如何看待 React Server Components？]()
+### [如何看待 React Server Components？](https://github.com/catcxj/blog/issues/1)
