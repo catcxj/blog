@@ -1,7 +1,7 @@
 # 目录
 ## 知识
-### [如何看待 React Server Components？（2020）](https://github.com/catcxj/blog/issues/1)
 ### [前端设计模式（2021）](https://github.com/catcxj/blog/issues/4)
+### [如何看待 React Server Components？（2020）](https://github.com/catcxj/blog/issues/1)
 ## 管理
 ### [硝烟中的scrum实践（2020）](https://github.com/catcxj/blog/issues/3)
 ## 对比
